@@ -4,13 +4,24 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
 
 🌟 Feel free to explore my work, connect with me, or collaborate on exciting projects!
 
-## 🚀 About Me
+🚀 About Me
 
-* 🎓 Computer Engineering Student
-* 🌏 ICCR Scholar studying in India
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 💻 Passionate about Software Development
-* 📚 Lifelong Learner and Technology Enthusiast
+$ education
+🎓 Computer Engineering Student
+
+$ scholarship
+🌏 ICCR Scholar studying in India
+
+$ interests
+🤖 Artificial Intelligence & Machine Learning
+💻 Software Development
+
+$ mindset
+📚 Lifelong Learner & Technology Enthusiast
+
+$ status
+🚀 Building, Learning, and Growing Every Day
+
 
 <h3 align="center">Connect with Me</h3><p align="center">
   <a href="https://github.com/promitroy294-max"><img src="https://skillicons.dev/icons?i=github" /></a>
