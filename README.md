@@ -12,7 +12,6 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
 * 💻 Passionate about Software Development
 * 📚 Lifelong Learner and Technology Enthusiast
 
-🌐 Connect With Me
 
 <h3 align="center">Connect with Me</h3><p align="center">
   <a href="https://github.com/promitroy294-max"><img src="https://skillicons.dev/icons?i=github" /></a>
