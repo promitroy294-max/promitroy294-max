@@ -43,9 +43,6 @@ alt="GitHub Streak"
 
 🎯 Current Goals
 
-$ whoami
-Promit Protim Roy
-
 $ current_goals
 > Learn Advanced AI & Machine Learning
 > Contribute to Open Source Projects
