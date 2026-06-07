@@ -1,4 +1,4 @@
-# Hi, I'm Promit Roy 👋
+# Hi, I'm Promit Promit Roy 👋
 
 ### Welcome to my GitHub Profile!
 
@@ -17,7 +17,7 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://promitroy294-max.github.io/portfolio/">
     <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_My_Website-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
