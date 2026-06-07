@@ -1,34 +1,6 @@
-<!-- HTML --><h1 id="typing-text"></h1><!-- JavaScript --><script>
-const texts = [
-  "Hi, I'm Promit Protim Roy",
-  "Welcome to my GitHub Profile! ✨"
-];
-
-let textIndex = 0;
-let charIndex = 0;
-const speed = 100;
-const element = document.getElementById("typing-text");
-
-function typeText() {
-  if (charIndex < texts[textIndex].length) {
-    element.textContent += texts[textIndex].charAt(charIndex);
-    charIndex++;
-    setTimeout(typeText, speed);
-  } else {
-    setTimeout(() => {
-      textIndex++;
-      
-      if (textIndex < texts.length) {
-        element.textContent = "";
-        charIndex = 0;
-        typeText();
-      }
-    }, 1500);
-  }
-}
-
-typeText();
-</script>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Promit+Protim+Roy;Welcome+to+my+GitHub+Profile!+✨" alt="Typing SVG" />
+</p>
 
 I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology enthusiast who enjoys building projects, exploring Artificial Intelligence, and continuously learning new technologies.
 
