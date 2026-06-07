@@ -51,5 +51,5 @@ alt="GitHub Streak"
 * Grow as a Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=C9A84C&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+⭐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding!;See+you+again!" />
 </p>
