@@ -12,8 +12,6 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
 * 💻 Passionate about Software Development
 * 📚 Lifelong Learner and Technology Enthusiast
 
-## 🌐 Connect With Me
-
 🌐 Connect With Me
 
 <p align="center">
