@@ -4,7 +4,8 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
 
 🌟 Feel free to explore my work, connect with me, or collaborate on exciting projects!
 
-##🚀 About Me
+##About me
+
 
 > 
 🎓 Computer Engineering Student
