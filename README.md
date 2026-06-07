@@ -43,7 +43,6 @@ alt="GitHub Streak"
 
 🎯 Current Goals
 
-$ current_goals
 > Learn Advanced AI & Machine Learning
 > Contribute to Open Source Projects
 > Build Impactful Software Solutions
