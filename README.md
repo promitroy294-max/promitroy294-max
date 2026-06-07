@@ -41,13 +41,19 @@ src="https://streak-stats.demolab.com?user=promitroy294-max&theme=tokyonight&hid
 alt="GitHub Streak"
 />
 
-## 🎯 Current Goals
+🎯 Current Goals
 
-* Learn advanced AI and Machine Learning concepts
-* Contribute to Open Source projects
-* Build impactful software solutions
-* Strengthen Data Structures and Algorithms skills
-* Grow as a Full-Stack Developer
+$ whoami
+Promit Protim Roy
+
+$ current_goals
+> Learn Advanced AI & Machine Learning
+> Contribute to Open Source Projects
+> Build Impactful Software Solutions
+> Strengthen DSA Skills
+> Grow as a Full-Stack Developer
+
+Status: In Progress 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=promitroy294-max&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
