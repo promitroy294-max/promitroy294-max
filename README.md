@@ -50,7 +50,6 @@ alt="GitHub Streak"
 * Strengthen Data Structures and Algorithms skills
 * Grow as a Full-Stack Developer
 
-Thanks for visiting my profile! ⭐
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Have+a+great+day!+✨;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
+</p>
