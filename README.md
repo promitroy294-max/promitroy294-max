@@ -1,3 +1,20 @@
+# Hi, I'm Promit Roy 👋
+
+### Welcome to my GitHub Profile!
+
+I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology enthusiast who enjoys building projects, exploring Artificial Intelligence, and continuously learning new technologies.
+
+🌟 Feel free to explore my work, connect with me, or collaborate on exciting projects!
+
+## 🚀 About Me
+
+* 🎓 Computer Engineering Student
+* 🌏 ICCR Scholar studying in India
+* 🤖 Interested in Artificial Intelligence & Machine Learning
+* 💻 Passionate about Software Development
+* 🌐 English ↔ Bengali Translator
+* 📚 Lifelong Learner and Technology Enthusiast
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -17,3 +34,29 @@
     <img src="https://img.shields.io/badge/YouTube-Promit_Protim_Roy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
+
+
+---
+
+## 🛠️ Technologies & Tools
+
+```text
+Languages      : C, C++, Python, Java, JavaScript
+Frontend       : HTML, CSS, React
+Backend        : Node.js
+Database       : MySQL
+Tools          : Git, GitHub, VS Code, Linux
+```
+
+## 🎯 Current Goals
+
+* Learn advanced AI and Machine Learning concepts
+* Contribute to Open Source projects
+* Build impactful software solutions
+* Strengthen Data Structures and Algorithms skills
+* Grow as a Full-Stack Developer
+
+Thanks for visiting my profile! ⭐
+
+
+
