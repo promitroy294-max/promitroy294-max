@@ -47,6 +47,10 @@ Backend        : Node.js
 Database       : MySQL
 Tools          : Git, GitHub, VS Code, Linux
 ```
+<img
+src="https://streak-stats.demolab.com?user=promitroy294-max&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
 
 ## 🎯 Current Goals
 
