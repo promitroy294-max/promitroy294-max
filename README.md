@@ -1,6 +1,46 @@
-# Hi, I'm Promit Promit Roy 👋
+<h1>
+  <span id="typing-text"></span>
+  <span class="cursor">|</span>
+</h1><style>
+#typing-text {
+  color: #c9a84c;
+}
 
-### Welcome to my GitHub Profile!
+.cursor {
+  animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style><script>
+const texts = [
+  "Hi, I'm Promit Protim Roy",
+  "Welcome to my GitHub Profile! ✨"
+];
+
+let textIndex = 0;
+let charIndex = 0;
+
+function typeWriter() {
+  const textElement = document.getElementById("typing-text");
+
+  if (charIndex < texts[textIndex].length) {
+    textElement.textContent += texts[textIndex].charAt(charIndex);
+    charIndex++;
+    setTimeout(typeWriter, 80);
+  } else {
+    setTimeout(() => {
+      textIndex = (textIndex + 1) % texts.length;
+      charIndex = 0;
+      textElement.textContent = "";
+      typeWriter();
+    }, 2000);
+  }
+}
+
+typeWriter();
+</script>
 
 I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology enthusiast who enjoys building projects, exploring Artificial Intelligence, and continuously learning new technologies.
 
