@@ -6,20 +6,20 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
 
 🚀 About Me
 
-> education
+> 
 🎓 Computer Engineering Student
 
-> scholarship
+> 
 🌏 ICCR Scholar studying in India
 
-> interests
+> 
 🤖 Artificial Intelligence & Machine Learning
 💻 Software Development
 
-> mindset
+> 
 📚 Lifelong Learner & Technology Enthusiast
 
-> status
+> 
 🚀 Building, Learning, and Growing Every Day
 
 
