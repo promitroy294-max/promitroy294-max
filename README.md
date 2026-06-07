@@ -1,19 +1,4 @@
-<h1>
-  <span id="typing-text"></span>
-  <span class="cursor">|</span>
-</h1><style>
-#typing-text {
-  color: #c9a84c;
-}
-
-.cursor {
-  animation: blink 0.8s infinite;
-}
-
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style><script>
+<!-- HTML --><h1 id="typing-text"></h1><!-- JavaScript --><script>
 const texts = [
   "Hi, I'm Promit Protim Roy",
   "Welcome to my GitHub Profile! ✨"
@@ -21,25 +6,28 @@ const texts = [
 
 let textIndex = 0;
 let charIndex = 0;
+const speed = 100;
+const element = document.getElementById("typing-text");
 
-function typeWriter() {
-  const textElement = document.getElementById("typing-text");
-
+function typeText() {
   if (charIndex < texts[textIndex].length) {
-    textElement.textContent += texts[textIndex].charAt(charIndex);
+    element.textContent += texts[textIndex].charAt(charIndex);
     charIndex++;
-    setTimeout(typeWriter, 80);
+    setTimeout(typeText, speed);
   } else {
     setTimeout(() => {
-      textIndex = (textIndex + 1) % texts.length;
-      charIndex = 0;
-      textElement.textContent = "";
-      typeWriter();
-    }, 2000);
+      textIndex++;
+      
+      if (textIndex < texts.length) {
+        element.textContent = "";
+        charIndex = 0;
+        typeText();
+      }
+    }, 1500);
   }
 }
 
-typeWriter();
+typeText();
 </script>
 
 I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology enthusiast who enjoys building projects, exploring Artificial Intelligence, and continuously learning new technologies.
@@ -88,6 +76,7 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
       alt="Tech Stack"
     />
   </div>
+
 </section>
 <img
 src="https://streak-stats.demolab.com?user=promitroy294-max&theme=tokyonight&hide_border=true"
