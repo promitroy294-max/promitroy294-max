@@ -1,8 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Promit+Protim+Roy;Welcome+to+my+GitHub+Profile!+✨)
 
-I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology enthusiast who enjoys building projects, exploring Artificial Intelligence, and continuously learning new technologies.
+intro: >
+  I'm a Computer Engineering student, ICCR Scholar, freelancer,
+  and technology enthusiast who enjoys building projects,
+  exploring Artificial Intelligence, and continuously learning
+  new technologies.
 
-🌟 Feel free to explore my work, connect with me, or collaborate on exciting projects!
+message: "🌟 Feel free to explore my work, connect with me, or collaborate on exciting projects!"
 
 ## 🚀 About Me
 
