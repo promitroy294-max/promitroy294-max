@@ -50,7 +50,7 @@ alt="GitHub Streak"
 * Grow as a Full-Stack Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=promitroy294-max&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=promitroy294-max&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
