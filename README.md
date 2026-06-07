@@ -12,7 +12,6 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
 * 🌏 ICCR Scholar studying in India
 * 🤖 Interested in Artificial Intelligence & Machine Learning
 * 💻 Passionate about Software Development
-* 🌐 English ↔ Bengali Translator
 * 📚 Lifelong Learner and Technology Enthusiast
 
 ## 🌐 Connect With Me
@@ -38,15 +37,18 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
 
 ---
 
-## 🛠️ Technologies & Tools
-
-```text
-Languages      : C, C++, Python, Java, JavaScript
-Frontend       : HTML, CSS, React
-Backend        : Node.js
-Database       : MySQL
-Tools          : Git, GitHub, VS Code, Linux
-```
+<section id="tech-tools">
+  <div class="section-header">
+    <span class="section-label">TECH STACK</span>
+    <h2 class="section-title">Tools I Use</h2>
+    <div class="section-line"></div>
+  </div>  <div class="skill-category" style="text-align:center;">
+    <img
+      src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,mysql,git,github,linux,vscode&perline=7"
+      alt="Tech Stack"
+    />
+  </div>
+</section>
 <img
 src="https://streak-stats.demolab.com?user=promitroy294-max&theme=tokyonight&hide_border=true"
 alt="GitHub Streak"
