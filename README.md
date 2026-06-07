@@ -14,7 +14,9 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<🌐 Connect With Me
+
+<p align="center">
   <a href="https://promitroy294-max.github.io/portfolio/">
     <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_My_Website-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
@@ -31,8 +33,6 @@ I'm a Computer Engineering student, ICCR Scholar, freelancer, and technology ent
     <img src="https://img.shields.io/badge/YouTube-Promit_Protim_Roy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
-
-
 ---
 
 <section id="tech-tools">
